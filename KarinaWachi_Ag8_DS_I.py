@@ -1,6 +1,3 @@
-#Bem-vindos ao TudoWeb 
-###Sua opinião é muito importante para nós! ✨  
-
 # Contadores
 qtde_excelente = 0
 qtde_ruim = 0
